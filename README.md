@@ -26,10 +26,13 @@
 ✨ Hi there! I am Ayush Rai, a **MERN Stack Developer** with a knack for designing scalable and intuitive web applications.  
 💻 My passion lies in crafting **pixel-perfect UIs** and optimizing **backend efficiency** to deliver seamless user experiences.  
 
-### 🌱 Currently Exploring:  
-- **Web3 Development**  
-- **Advanced TypeScript**  
-- **Serverless Architectures**
+🔍 **Currently Exploring:**  
+- Advanced **React.js** concepts like hooks, context API, and state management with **Redux**.  
+- Building RESTful APIs and GraphQL for scalable backends.  
+- Optimizing database performance with **MongoDB Aggregations** and indexing.  
+- Learning deployment strategies using **Docker** and **CI/CD pipelines**.  
+- Diving into **Next.js** for server-side rendering and static site generation.  
+
 
 🎯 **Mission:** To merge creativity and functionality into web solutions that leave an impact.  
 💬 **Fun Fact:** I enjoy coding while binge-watching tech podcasts! 🎧
