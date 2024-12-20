@@ -41,7 +41,7 @@
 <td>
   
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/93040683?u=b12ca06b52d5ca87757673f25b9b336a4467402f&v=4" />
+<img src="https://avatars.githubusercontent.com/u/93040683?v=4" />
 </div>
 
 </td>
