@@ -41,7 +41,7 @@
 <td>
   
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/93040683?v=4" />
+<img src="https://github.com/ayushrai26/pic/blob/main/WhatsApp%20Image%202024-12-20%20at%2012.46.14_18291622.jpg?raw=true" />
 </div>
 
 </td>
