@@ -108,12 +108,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushrai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" height="180px" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=ayushrai26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" height="180px" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrai26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" /> 
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrai&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrai26&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180px" />
 
 </div>
 
@@ -124,7 +124,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ayushrai&theme=tokyonight&column=4&margin-w=15&margin-h=15)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=ayushrai26&theme=tokyonight&column=4&margin-w=15&margin-h=15)  
 
 </div>
 
