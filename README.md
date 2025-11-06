@@ -113,7 +113,7 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?username=ayushrai26&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrai26&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180px" />
 
 </div>
 
