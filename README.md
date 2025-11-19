@@ -55,11 +55,12 @@
 <div align="center">
 
 <table>
+  
+<tr>
   <td align="center" width="140">
     <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png" height="50" alt="C++" />
     <br />C++
   </td>
-<tr>
   <td align="center" width="140">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
     <br />HTML5
