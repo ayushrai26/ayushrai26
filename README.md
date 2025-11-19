@@ -55,6 +55,10 @@
 <div align="center">
 
 <table>
+  <td align="center" width="140">
+    <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png" height="50" alt="C++" />
+    <br />C++
+  </td>
 <tr>
   <td align="center" width="140">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
@@ -75,6 +79,10 @@
   <td align="center" width="140">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
     <br />Node.js
+  </td>
+  <td align="center" width="140">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" height="50" alt="TailwindCSS" />
+    <br />TailwindCSS
   </td>
 </tr>
 <tr>
@@ -99,18 +107,12 @@
     <img src="https://cdn.prod.website-files.com/62d9b9c78f111f03f778e150/68624ec9dc394e09ab806d0b_rest%20api%20image.png" height="50" alt="RestAPIs" />
     <br />RESTAPIs
   </td>
-  <td align="center" width="140">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" height="50" alt="TailwindCSS" />
-    <br />TailwindCSS
-  </td>
+  
   <td align="center" width="140">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkNlFrZjnzTypfcUOGKkD8PLatlyiIgqOGg&s" height="50" alt="Vercel" />
     <br />Vercel
   </td>
-  <td align="center" width="140">
-    <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png" height="50" alt="C++" />
-    <br />C++
-  </td>
+  
   <td align="center" width="140">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzSUM8bHHlBii_AXAeX7f7-pOS_2iv6-PwYg&s" height="50" alt="PostgreSQL" />
     <br />PostgreSQL
