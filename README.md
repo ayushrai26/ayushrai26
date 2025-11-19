@@ -35,7 +35,7 @@
 
 
 🎯 **Mission:** To merge creativity and functionality into web solutions that leave an impact.  
-💬 **Fun Fact:** I enjoy coding while binge-watching tech podcasts! 🎧
+💬 **Fun Fact:** I enjoy coding while listening Songs! 🎧
 
 </td>
 <td>
@@ -94,6 +94,10 @@
   <td align="center" width="140">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
     <br />SQL
+  </td>
+  <td align="center" width="140">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/restapi-original.svg" height="50" alt="RestAPIs" />
+    <br />RESTAPIs
   </td>
 </tr>
  
