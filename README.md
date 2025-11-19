@@ -96,7 +96,7 @@
     <br />SQL
   </td>
   <td align="center" width="140">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/restapi-original.svg" height="50" alt="RestAPIs" />
+    <img src="https://cdn.prod.website-files.com/62d9b9c78f111f03f778e150/68624ec9dc394e09ab806d0b_rest%20api%20image.png" height="50" alt="RestAPIs" />
     <br />RESTAPIs
   </td>
 </tr>
